@@ -60,7 +60,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 
 ## 🛠️ My Skills
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Programming languages
+###  Programming languages
 
 <p align="left"> 
 &emsp;
@@ -80,7 +80,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 &emsp;
 </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Frameworks
+###  Frameworks
 
 <p align="left"> 
 &emsp; 
@@ -100,7 +100,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 
 </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> IDEs/Editors
+###  IDEs/Editors
 
 <p align="left"> 
 &emsp; 
@@ -128,7 +128,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 
 </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Version Control
+###  Version Control
 
 <p align="left">
 &emsp;
@@ -140,7 +140,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 
 </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Databases
+###  Databases
 
 <p align="left">
 &emsp;
@@ -157,7 +157,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 <img alt="Redis" src ="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Cloud & SaaS
+###  Cloud & SaaS
 
 <p align="left">
 &emsp;
@@ -179,7 +179,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 
  </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Servers
+###  Servers
 
 <p align="left">
 &emsp;
@@ -191,7 +191,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 
 </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> CI
+###  CI
 
 <p>
 &emsp;
@@ -205,7 +205,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 
 </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ML/DL
+###  ML/DL
 
 <p>
 &emsp;
@@ -223,7 +223,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 
 </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Operating System
+###  Operating System
 
 <p>
   &emsp;
@@ -245,7 +245,7 @@ I'm Muhammad Abdullah, Cybersecurity analyst, Malware research, Automation engin
 
 </p>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Other tools & Technologies
+###  Other tools & Technologies
 
 <p>
   &emsp;
